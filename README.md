@@ -1,5 +1,5 @@
 # Introduction-to-HTML
-<head><title>Introduction to HTML</title></head>
+
 <body>
     <h1>The Brown Bear</h1>
     <div id="introduction">
